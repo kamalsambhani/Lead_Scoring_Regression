@@ -28,3 +28,5 @@ There are quite a few goals for this case study.
   - Mention the problem statement and the analysis approach briefly 
   - Explain the results in business terms
   - Include visualisations and summarise the most important results in the presentation
+
+DATASET FROM KAGGLE 
